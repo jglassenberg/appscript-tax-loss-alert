@@ -39,6 +39,5 @@ learn more about how it was built.
 
 [script-copy]: https://script.google.com/d/1EnQmcbBeHAvM9vpSOOaVFnuS-XdPvvDFl5CwwQpadqAzgOXICmyM_fzn/edit
 [github]: https://github.com/gsuitedevs/solutions/blob/master/
-[create-calendar]:[https://support.google.com/calendar/answer/37095]
 [spreadsheetapp-docs]: https://developers.google.com/apps-script/reference/spreadsheet/spreadsheet-app
 [sheet-copy]: https://docs.google.com/spreadsheets/d/1G4VZLU7mSb-cVLXyMfCjM1R5EHQMV8mmRKeZSvXEQsU/copy
